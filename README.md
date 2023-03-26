@@ -113,7 +113,7 @@
  ![image](https://github.com/treenbosleta/CM_T/blob/f5777560e09e440bb05453081d4ab9066bcf4741/WechatIMG146.png)
  
      这里分为mocha写法和truffle写法，其实基本都差不多
-     我这里用mocha演示， 标志就是 describe 
+     我这里用mocha演示， 标志就是 describe  should.be 
      
      引入要测试的合约，it后面的字符串这里可以描述一下测试预期，然后异步等待部署完成调用初始列表以及推入值之后的列表是否正确
      
