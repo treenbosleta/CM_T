@@ -11,7 +11,7 @@
 
      三、   测试智能合约的范围
      
-     四、   测试会用到的一些工具truffle、mocha、hardhat、brownie、js、solidity、ether.js/web3.js  等等
+     四、   测试会用到的一些工具truffle、mocha、hardhat、brownie、js、solidity、ether.js/web3.js  etherscan metamask 等等
      
      五、   项目实操
      
@@ -73,8 +73,12 @@
      
      6、  Brownie
           python语言，框架跟pytest很像，目前相对上面两个相对小众
-        
-        
+       
+     7、  etherscan
+          区块链浏览器，一般会去看下合约生成情况以及其他信息
+          
+     8、  metamask
+          小狐狸钱包，这个基本在web3里面都会用到，用户身份许可也从这里获得，  mes.sender 调用方大多是metamask的登陆者
   
         
         
